@@ -139,3 +139,4 @@ s.product_id=m2.product_id)
 
 select customer_id,sum(points) from Week_points where order_date<='2021-01-31' group by customer_id
 
+
