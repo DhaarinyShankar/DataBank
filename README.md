@@ -9,7 +9,7 @@ Danny wants to use the data to answer a few simple questions about his customers
 
 He plans on using these insights to help him decide whether he should expand the existing customer loyalty program - additionally he needs help to generate some basic datasets so his team can easily inspect the data without needing to use SQL.
 
-Danny has provided with a sample of his overall customer data due to privacy issues - but hoping that these examples are enough to write fully functioning SQL queries to help him answer his questions!
+Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite.
 
 **Case Study Questions:**
 What is the total amount each customer spent at the restaurant?
